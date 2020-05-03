@@ -8,3 +8,8 @@ It is a simple text game played on a command line prompt. The objective of the g
 The skills that I'm trying to demonstrate are:
 * Use of modules
 * Use of classes and methods
+* Creating a .py file that can be run from the command line
+* Error checking 
+* Well-commented code writing
+* Numpy and random number generation
+* Setter and decorator methods 
