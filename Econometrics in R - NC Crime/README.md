@@ -1,5 +1,5 @@
 ## North Carolina Crime 1987
-### Linear Regressions in R
+### Econometrics and Linear Regressions in R
 
 This is a group project I worked on for the Master of Information and Data Science (MIDS) - [Statistics for Data Science](https://www.ischool.berkeley.edu/courses/datasci/203) class at UC Berkeley. 
 
