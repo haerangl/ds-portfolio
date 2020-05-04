@@ -1,11 +1,13 @@
-## North Carolina Crime 1987
+## North Carolina Crime Study 
 ### Econometrics and Linear Regressions in R
 
 This is a group project I worked on for the Master of Information and Data Science (MIDS) - [Statistics for Data Science](https://www.ischool.berkeley.edu/courses/datasci/203) class at UC Berkeley. 
 
-My two teammates and I received a modified version of the [`Crime` Ecdat R dataset](https://rdrr.io/cran/Ecdat/man/Crime.html). We analyzed it for actionable insights about the determinants of crime in North Carolina that could generate data-driven policy suggestions.
+**Links**
+* [PDF report - North Carolina Crime 1987](North%20Carolina%20Crime%201987.pdf): Rendered directly from the Rmd file  
+* [R markdown version - North Carolina Crime 1987](North%20Carolina%20Crime%201987.rmd)
 
-The skills I am trying to demonstrate are:
+**Skills Demonstrated**
 
 * Familiarity with R - the language and markdowns 
 * Exploratory data analysis 
@@ -13,3 +15,7 @@ The skills I am trying to demonstrate are:
 * Statistical modeling: Built three models and compared them side-by-side
 * Understanding of the key assumptions of linear regressions and their implications   
 * Interpretation of linear regression models, including statistical and practical significance 
+
+**Overview**
+
+In this paper, my team and I examine the correlation between North Carolina's 1987 crime rate per county and several independent variables, including the average sentence length, percentage of racial minorities, and wages. We build and compare three linear models for their validity and robustness, then provide data-driven policy suggestions. Our results indicate that stricter criminal justice does not have practical implications in reducing crime.
