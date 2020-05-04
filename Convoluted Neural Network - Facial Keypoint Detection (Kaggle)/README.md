@@ -5,7 +5,7 @@ This is a group project for the Master of Information and Data Science (MIDS) - 
 
 **Links**
 
-* While we are not making our code public, please see our model in action in our [**web app**](http://doctortensorflow.pythonanywhere.com/). 
+* While our code repo is not public just yet, please see our model in action in our [**web app**](http://doctortensorflow.pythonanywhere.com/). 
 * We've also outlined our approach, challenges, and experience in the **[deck we presented to the class](Face%20in%20Point%20-%20Presentation.pdf).**
 
 **Skills Demonstrated**
