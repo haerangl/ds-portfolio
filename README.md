@@ -4,7 +4,6 @@
 
 A data analyst with seven years of experience, I may have never been called a data scientist at work. Still, I've dedicated 20-30 hours/week for the last 12 months in a rigorous part-time data science master's program at UC Berkeley. This portfolio is a collection of my work to demonstrate my technical skills.
 
-1. [**My resume**](Haerang%20Lee%20Resume.pdf)
 1. **Statistical modeling**
    1. [Experiment and Causal Inference in R - **Speaking Science: Effect of Locality in Science Engagement**](https://github.com/haerangl/speaking-science)\*  
    In this experiment, my team and I examine whether the proximity to the location discussed in a science news article affects the reader’s engagement with the article and its topic. We carefully designed and conducted an online survey to collect raw data, then analyzed it using linear regressions to determine the causal relationship. Locality appeared to increase readers' reading comprehension of the article. However, although we may have had enough statistical power to detect real differences, the results may not generalize well to the broader world. 
