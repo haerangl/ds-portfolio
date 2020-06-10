@@ -1,8 +1,6 @@
 ## Haerang Lee's Data Science Portfolio
 
-### Data Scientist in Training
-
-I am a data scientist with anti-fraud, risk, and compliance domain experience. 
+I am a data scientist with anti-fraud, risk, and compliance domain experience. I built my career at the intersection of business judgment and data science, where I developed a well-rounded set of skills in business intuition, communication, analytics, and programming. I often serve as the interpreter between data scientists and business professionals. 
 
 **By Day: Core Analytics and Science at Uber**
 For Uber's executives who want to minimize the company's exposure to financial and reputational risks, our team provides insights into the robustness of Uber's processes, systems, and policies. While our clients and stakeholders may work in silos, we provide cross-functional and end-to-end reviews to recommend improvements. To a team of finance, risk, and compliance professionals, I bring data science to assess the company's health with increased speed and depth. I add a new layer of insight from science and engineering to evaluate data risks, such as governance or quality issues. I also train other members of the department in data analytics, including hypothesis testing, exploratory analysis, and SQL.
